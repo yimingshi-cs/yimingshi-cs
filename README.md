@@ -7,7 +7,7 @@ At Dots (Xiaohongshu) I work on abstract reasoning for ARC-AGI-2 and ARC-AGI-3; 
 [Website](https://yiming-shi.com/) · [Blog](https://yiming-shi.com/blog/) · [X](https://x.com/yyyyyyyiming) · [Email](mailto:yimingshi666@gmail.com)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SKDDJ/picgoimgbed/main/202402121720081.jpeg" alt="WeChat QR" width="160" height="160">
+  <img src="https://raw.githubusercontent.com/yimingshi-cs/picgoimgbed/main/202402121720081.jpeg" alt="WeChat QR" width="160" height="160">
 </p>
 
 ## Experience
@@ -49,5 +49,5 @@ At Dots (Xiaohongshu) I work on abstract reasoning for ARC-AGI-2 and ARC-AGI-3; 
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SKDDJ&theme=default&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKDDJ&layout=compact&hide=html&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yimingshi-cs&theme=default&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yimingshi-cs&layout=compact&hide=html&langs_count=8)
